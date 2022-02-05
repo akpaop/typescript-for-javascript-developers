@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/akpaop/typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/akpaop/typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/akpaop/typescript-for-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
